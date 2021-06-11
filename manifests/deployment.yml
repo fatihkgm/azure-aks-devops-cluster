@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: mywebappaks 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mywebappaks
+  template:
+    metadata:
+      labels:
+        app: mywebappaks 
+    spec:
+      containers:
+        - name: mywebappaks 
+          image: aksvmregistry.azurecr.io/mywebappaks
+          ports:
+          - containerPort: 80
