@@ -1,6 +1,6 @@
 # azure-aks-devops-cluster
 
-## Sample source code created for dockerfile along with loadbalancer and deploment yaml file
+## Sample source code created for dockerfile along with loadbalancer and deploment yaml file.
 
 ## Azure DevOps Build Push to ACR
 Go to  : https://github.com/fatihkgm/AKS-KUBERNETES-INSTRUCTION/tree/main/9-DevOps-Build-Run-Push-Deploy
