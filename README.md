@@ -17,3 +17,7 @@ Go to  : https://github.com/fatihkgm/AKS-KUBERNETES-INSTRUCTION/tree/main/9-DevO
 
 
 <img width="834" alt="Screen Shot 2021-06-11 at 3 55 06 AM" src="https://user-images.githubusercontent.com/63836841/121651626-d1c9b980-ca68-11eb-920c-a4f4e834fe11.png">
+
+
+
+
